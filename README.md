@@ -1,27 +1,83 @@
-# 💫 About Me:
-👋 Hey, I'm Vikash Kumar<br><br>💻 Full-Stack & GenAI Developer<br>🚀 Building scalable web & AI-powered applications<br>☁️ Exploring Cloud Computing & AWS<br>⚡ Passionate about modern technologies and real-world products<br>🤝 Open to collaborations, freelance projects & internships<br>💡 Turning ideas into impactful digital solutions<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋%20I'm%20Vikash&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20GenAI%20Developer&descAlignY=55&descAlign=62" />
+  
+  <br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikashkumar302004/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikash9811078@gmail.com) 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+GenAI+Developer;Building+Scalable+Web+Apps;Passionate+about+Cloud+%26+AWS;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vikashkumar302004&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vikashkumar302004&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vikashkumar302004&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table align="center" style="border: none; width: 100%;">
+  <tr>
+    <td width="60%" valign="center">
+      <h3>🚀 About Me</h3>
+      <br>
+      <ul>
+        <li>💻 I build <b>scalable web & AI-powered applications</b></li>
+        <li>☁️ Exploring and mastering <b>Cloud Computing & AWS</b></li>
+        <li>🤝 Open to collaborations, <b>freelance projects & internships</b></li>
+        <li>⚡ Fun fact: I love building <b>real-world digital products</b></li>
+        <li>📫 Reach me at: <a href="mailto:vikash9811078@gmail.com"><b>vikash9811078@gmail.com</b></a></li>
+      </ul>
+      <br>
+      <b>Let's Connect:</b><br><br>
+      <a href="https://linkedin.com/in/vikashkumar302004/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://mastodon.social/@Vikash Kumar"><img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
+    </td>
+    <td width="40%" align="center">
+      <!-- Animated Coding GIF -->
+      <img src="https://raw.githubusercontent.com/7o7y/7o7y/main/Assets/coding.gif" width="300" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<hr>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vikashkumar302004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <h3>🛠️ Skills & Technologies</h3>
+  <br>
+  
+  <!-- Beautiful Rounded Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,tailwind,redux,threejs,nodejs,express,fastapi,mysql,postgres,mongodb,firebase,supabase,aws,gcp,azure,vercel,netlify,heroku,git,github&perline=10" />
+  </a>
+</div>
 
-### 📈 Contribution Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar302004&bg_color=0d1117&color=00F7FF&line=7B2FFF&point=ffffff&area=true&hide_border=true)
+<hr>
 
----
-[![](https://komarev.com/ghpvc/?username=vikashkumar302004&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <h3>🐍 My GitHub Contribution Snake</h3>
+  <br>
+  <!-- NOTE: You must setup the GitHub Action for this to work -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikashkumar302004/vikashkumar302004/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikashkumar302004/vikashkumar302004/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vikashkumar302004/vikashkumar302004/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
+
+<div align="center">
+  <h3>🔥 GitHub Analytics & Trophies</h3>
+  <br>
+
+  <!-- Animated Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar302004&bg_color=0d1117&color=00F7FF&line=7B2FFF&point=ffffff&area=true&hide_border=true" width="100%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.shion.dev/api?username=vikashkumar302004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=vikashkumar302004&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <br><br>
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashkumar302004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="90%" />
+  
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=vikashkumar302004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
