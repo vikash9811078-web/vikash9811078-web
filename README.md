@@ -1,20 +1,16 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Vikash%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20GenAI%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=58"/>
+
 # 👋 Hey, I'm Vikash Kumar
 
-### 💻 Full-Stack Developer | 🤖 GenAI Enthusiast | ☁️ Cloud Computing Learner
+### 💻 Full-Stack & GenAI Developer  
+### ☁️ Cloud Computing & AWS Enthusiast  
+### 🚀 Building Modern Web & AI Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;GenAI+%26+Cloud+Computing+Enthusiast;Building+Scalable+Web+Applications;Open+Source+%26+Freelance+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;GenAI+Application+Builder;Cloud+Computing+Learner;Building+Scalable+Web+Apps;Open+Source+%26+Freelance+Developer" />
 
----
-
-🚀 Building scalable web & AI-powered applications  
-⚡ Passionate about modern technologies and real-world products  
-☁️ Exploring AWS, GenAI, RAG & System Design  
-🤝 Open to collaborations, freelance projects & internships  
-💡 Turning ideas into impactful digital solutions  
-
-<img src="https://komarev.com/ghpvc/?username=vikashkumar302004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=vikashkumar302004&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -42,109 +38,44 @@
 
 # 💫 About Me
 
-```javascript
-const vikash = {
-    location: "India 🇮🇳",
-    role: "Full-Stack & GenAI Developer",
-
-    currentFocus: [
-        "Full-Stack Development",
-        "GenAI Applications",
-        "Cloud Computing",
-        "AI SaaS Products"
-    ],
-
-    technologies: {
-        frontend: [
-            "React.js",
-            "Next.js",
-            "Tailwind CSS"
-        ],
-
-        backend: [
-            "Node.js",
-            "Express.js",
-            "FastAPI"
-        ],
-
-        database: [
-            "MongoDB",
-            "MySQL"
-        ],
-
-        cloud: [
-            "AWS",
-            "Vercel",
-            "Render"
-        ],
-
-        ai: [
-            "LangChain",
-            "RAG",
-            "LLMs",
-            "GenAI"
-        ]
-    },
-
-    currentlyLearning: [
-        "System Design",
-        "Multi-Agent AI",
-        "Advanced Backend Engineering"
-    ]
-};
-```
+- 💻 Full-Stack & GenAI Developer  
+- 🚀 Building scalable web & AI-powered applications  
+- ☁️ Exploring Cloud Computing & AWS  
+- 🤖 Working on AI SaaS & automation tools  
+- ⚡ Passionate about real-world products & startups  
+- 🤝 Open to freelance projects, collaborations & internships  
+- 📚 Learning RAG, System Design & Multi-Agent AI Systems  
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Languages
+<div align="center">
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts"/>
-
-</p>
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
 
 ---
 
-## 🎨 Frontend Development
-
-<p align="center">
-
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 
-</p>
-
 ---
 
-## ⚙️ Backend Development
-
-<p align="center">
-
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
-</p>
-
 ---
 
-## 🗄️ Databases
-
-<p align="center">
-
+### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-</p>
-
 ---
 
-## ☁️ Cloud & Tools
-
-<p align="center">
-
+### ☁️ Cloud & Tools
 <img src="https://skillicons.dev/icons?i=aws,git,github,vercel,render,vscode"/>
 
-</p>
+</div>
 
 ---
 
@@ -152,11 +83,11 @@ const vikash = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vikashkumar302004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vikashkumar302004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkumar302004&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkumar302004&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar302004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar302004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -182,17 +113,17 @@ const vikash = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vikashkumar302004/vikashkumar302004/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/vikashkumar302004/vikashkumar302004/output/snake.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Quote
 
 <div align="center">
 
-### 🚀 I love building real-world products from ideas and shipping them to production.
+### 🚀 “Turning ideas into impactful digital products.”
 
 </div>
 
@@ -200,8 +131,6 @@ const vikash = {
 
 <div align="center">
 
-## ✨ Thanks For Visiting My Profile ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=120&section=footer"/>
 
 </div>
